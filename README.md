@@ -65,6 +65,7 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 
 ### Contenders
 - [GoodLinks](bookmarks/goodlinks.md) ★★★ - Quite good for the purpose (Paid: $5)
+- [Linkit](https://github.com/blue-idea/linkit) 🔗 - Local-first bookmark manager with AI summaries, semantic search and optional self-hosted sync (Free).
 - [Pile](bookmarks/pile.md) ★ - free option, (Full version: €48)
 - [Telik](https://github.com/agentcooper/Telik) ★★★ 🔗 - track YT channels for new videos.
 
